@@ -1,1 +1,2 @@
 # odin-recipes
+The goal of this project is to demonstrate competency within HTML. I will build a boilerplate, create a body of text, add images, and use a variety of styling within the text. I also plan to use hyperlinks to expand into multiple webpages.
